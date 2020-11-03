@@ -1,0 +1,8 @@
+﻿<Application x:Class="MartianRobots.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MartianRobots"
+             xmlns:vm = "clr-namespace:ViewModels;assembly=ViewModels" >
+    <Application.Resources>
+    </Application.Resources>
+</Application>
